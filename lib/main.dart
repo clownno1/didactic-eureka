@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:shark_security/function.dart';
-import 'login.dart';
 
 void main() {
   runApp(const SharkS());
